@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkksq=self.webpackChunkksq||[]).push([[163],{318:(e,s,a)=>{a.r(s),a.d(s,{default:()=>n});var r=a(43);const c=a.p+"static/media/quote.08b47fc2831af0d5badf.png";var t=a(579);const n=function(){return(0,r.useEffect)((()=>{(new Image).src=c}),[]),(0,t.jsxs)(t.Fragment,{children:[(0,t.jsx)("link",{rel:"preload",as:"image",href:c}),(0,t.jsx)("div",{className:"container-wrapper",children:(0,t.jsx)("img",{src:c,className:"quote-image",alt:"quote"})})]})}}}]);
+//# sourceMappingURL=163.0b154e37.chunk.js.map
