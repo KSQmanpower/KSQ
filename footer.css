@@ -53,9 +53,12 @@
   margin-bottom: 5%;
 }
 
-.footerImg:hover {
+.footerImg {
   transition: ease-in-out 0.3s;
-  transform: scale(1.5);
+}
+
+.footerImg:hover {
+  transform: scale(1.1);
 }
 
 .footerContentPStyle {
@@ -80,6 +83,11 @@
 .wwLogo {
   width: 30%;
   padding-bottom: 3%;
+  transition: ease-in-out 0.7s;
+}
+
+.wwLogo:hover {
+  transform: scale(1.1);
 }
 
 .wwLogo:hover {
