@@ -7,7 +7,7 @@ function Contactparent() {
       <ContactInfo />
       <Maps />
     </>
-  );
+  ); 
 }
 
 export default Contactparent;

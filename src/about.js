@@ -123,7 +123,7 @@ const CarOptionsSection = () => {
 
         <AccordionItem title="Ongoing Support and Flexibility">
           <h4 style={{ fontWeight: "600", marginBottom: "0.5rem" }}>
-            Ongoing Support and Flexibility 
+            Ongoing Support and Flexibility
           </h4>
           <ul
             style={{
