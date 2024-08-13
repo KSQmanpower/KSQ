@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/KSQ/static/css/main.d2bcbd1a.css",
-    "main.js": "/KSQ/static/js/main.65d62992.js",
+    "main.js": "/KSQ/static/js/main.60e8c2ce.js",
     "static/css/992.ce565010.chunk.css": "/KSQ/static/css/992.ce565010.chunk.css",
     "static/js/992.7dc95cc2.chunk.js": "/KSQ/static/js/992.7dc95cc2.chunk.js",
     "static/css/251.9daf63eb.chunk.css": "/KSQ/static/css/251.9daf63eb.chunk.css",
     "static/js/251.67756c36.chunk.js": "/KSQ/static/js/251.67756c36.chunk.js",
     "static/css/216.43140dc5.chunk.css": "/KSQ/static/css/216.43140dc5.chunk.css",
     "static/js/216.466b876d.chunk.js": "/KSQ/static/js/216.466b876d.chunk.js",
-    "static/js/629.0237ba0e.chunk.js": "/KSQ/static/js/629.0237ba0e.chunk.js",
+    "static/js/629.d7fb0ffa.chunk.js": "/KSQ/static/js/629.d7fb0ffa.chunk.js",
     "static/css/163.9ca52002.chunk.css": "/KSQ/static/css/163.9ca52002.chunk.css",
     "static/js/163.0b154e37.chunk.js": "/KSQ/static/js/163.0b154e37.chunk.js",
     "static/css/848.f25dac71.chunk.css": "/KSQ/static/css/848.f25dac71.chunk.css",
@@ -33,14 +33,14 @@
     "static/media/topBanner.png": "/KSQ/static/media/topBanner.2450e6d26434c1edd6ac.png",
     "index.html": "/KSQ/index.html",
     "main.d2bcbd1a.css.map": "/KSQ/static/css/main.d2bcbd1a.css.map",
-    "main.65d62992.js.map": "/KSQ/static/js/main.65d62992.js.map",
+    "main.60e8c2ce.js.map": "/KSQ/static/js/main.60e8c2ce.js.map",
     "992.ce565010.chunk.css.map": "/KSQ/static/css/992.ce565010.chunk.css.map",
     "992.7dc95cc2.chunk.js.map": "/KSQ/static/js/992.7dc95cc2.chunk.js.map",
     "251.9daf63eb.chunk.css.map": "/KSQ/static/css/251.9daf63eb.chunk.css.map",
     "251.67756c36.chunk.js.map": "/KSQ/static/js/251.67756c36.chunk.js.map",
     "216.43140dc5.chunk.css.map": "/KSQ/static/css/216.43140dc5.chunk.css.map",
     "216.466b876d.chunk.js.map": "/KSQ/static/js/216.466b876d.chunk.js.map",
-    "629.0237ba0e.chunk.js.map": "/KSQ/static/js/629.0237ba0e.chunk.js.map",
+    "629.d7fb0ffa.chunk.js.map": "/KSQ/static/js/629.d7fb0ffa.chunk.js.map",
     "163.9ca52002.chunk.css.map": "/KSQ/static/css/163.9ca52002.chunk.css.map",
     "163.0b154e37.chunk.js.map": "/KSQ/static/js/163.0b154e37.chunk.js.map",
     "848.f25dac71.chunk.css.map": "/KSQ/static/css/848.f25dac71.chunk.css.map",
@@ -57,6 +57,6 @@
   },
   "entrypoints": [
     "static/css/main.d2bcbd1a.css",
-    "static/js/main.65d62992.js"
+    "static/js/main.60e8c2ce.js"
   ]
 }
