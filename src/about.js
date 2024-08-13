@@ -86,7 +86,7 @@ const CarOptionsSection = () => {
           textAlign: "center",
         }}
       >
-        Engage in us, get the rest you deserve!
+        Helpers in Singapore, that you can trust
       </h1>
 
       <div>
@@ -102,7 +102,7 @@ const CarOptionsSection = () => {
             }}
           >
             <li>
-              KSL Manpower brings years of industry experience to the table
+              KSQ Manpower brings years of industry experience to the table
             </li>
             <li>
               offering unparalleled expertise in matching the right talent with
@@ -133,7 +133,7 @@ const CarOptionsSection = () => {
             }}
           >
             <li>
-              Choosing KSL Manpower means gaining a partner committed to your
+              Choosing KSQ Manpower means gaining a partner committed to your
               long-term success.
             </li>
             <li>
@@ -144,7 +144,7 @@ const CarOptionsSection = () => {
             <li>
               Our support doesn't end with placement; we provide ongoing
               assistance to both employers and employees, ensuring smooth
-              transitions and addressing any concerns that may arise. With KSL
+              transitions and addressing any concerns that may arise. With KSQ
               Manpower, you're not just filling positions – you're building a
               resilient, high-performing workforce tailored to your
               organization's goals and culture.
@@ -164,7 +164,7 @@ const CarOptionsSection = () => {
             }}
           >
             <li>
-              At KSL Manpower, we pride ourselves on our rigorous candidate
+              At KSQ Manpower, we pride ourselves on our rigorous candidate
               screening process. We go beyond just matching skills on paper
               <li>
                 we delve deep into each candidate's background, experience, and
