@@ -129,7 +129,7 @@ function NavBar() {
               Home
             </Link>
             <a
-              href="https://chatgpt.com/g/g-JuFBmJhoZ-shebella-beauty-bot"
+              href="https://chatgpt.com/g/g-xF4om9Sci-ksq-bot"
               style={linkStyle}
               className="navlinks"
             >
@@ -153,7 +153,7 @@ function NavBar() {
                 Home
               </Link>
               <a
-                href="https://chatgpt.com/g/g-JuFBmJhoZ-shebella-beauty-bot"
+                href="https://chatgpt.com/g/g-xF4om9Sci-ksq-bot"
                 style={linkStyle}
                 className="navlinks"
                 onClick={toggleMenu}
@@ -166,7 +166,7 @@ function NavBar() {
                 className="navlinks"
                 onClick={toggleMenu}
               >
-                Listings
+                Our Helpers
               </Link>
               <Link
                 to="/contact"

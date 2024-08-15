@@ -151,7 +151,7 @@ const ContactForm = () => {
       zIndex: 1000,
       transition: "background-color 0.3s ease",
       fontWeight: "bold",
-      background: "darkRed", 
+      background: "darkRed",
       borderRadius: "10px",
       color: "white",
       padding: "1%",
@@ -299,7 +299,9 @@ const ContactForm = () => {
             Submit
           </button>
         </form>
-        <p style={Pstyle}>Powered by Web Wizard Forms for Shebella Beauty & slimming</p>
+        <p style={Pstyle}>
+          Powered by Web Wizard Forms for Shebella Beauty & slimming
+        </p>
         <img
           src={Logo}
           alt="Web Wizards"

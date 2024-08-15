@@ -1,110 +1,110 @@
 /* horizontalBanner.css */
 .flexWrapper {
-    display: flex;
-    justify-content: center;
-    padding-bottom: 1em;
-    border-right: none;
-    font-family: "League Spartan", sans-serif;
-    color: #00285D;
-    font-weight: 500;
-    background: #ffffff;
+  display: flex;
+  justify-content: center;
+  padding-bottom: 1em;
+  border-right: none;
+  font-family: "League Spartan", sans-serif;
+  color: #00285d;
+  font-weight: 500;
+  background: #ffffff;
+}
+
+.totalContainerClass {
+  border-top: 0.5px dotted gray;
+  border-bottom: 0.5px dotted gray;
+  margin-top: 7em;
+}
+
+.gridContainer {
+  display: grid;
+  grid-template-columns: 40% 60%;
+  grid-gap: 0;
+  text-align: left;
+  width: 100%;
+}
+
+.gridContainer2 {
+  margin-top: 1em;
+  display: grid;
+  grid-template-columns: 60% 40%;
+  grid-gap: 0;
+  text-align: left;
+  width: 100%;
+}
+
+.container1,
+.container2 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.textAlightLeft2 {
+  text-align: left;
+  font-size: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
+  line-height: 1.3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.textAlightLeft3 {
+  text-align: left;
+  font-size: 2em;
+  padding-left: 3em;
+  padding-right: 1em;
+  line-height: 1.3em;
+  padding-top: 1em;
+  padding-bottom: 1em;
+}
+
+.videoStyle {
+  width: 70%;
+}
+
+@media screen and (max-width: 1029px) {
+  .TextContent {
+    font-size: 1.4em !important;
   }
-  
+
+  .HorizontalVideo {
+    width: 90% !important;
+    height: auto;
+  }
+
   .totalContainerClass {
-    border-top: 0.5px dotted gray;
-    border-bottom: 0.5px dotted gray;
-    margin-top: 7em;
+    margin-top: 0em !important;
   }
-  
-  .gridContainer {
-    display: grid;
-    grid-template-columns: 40% 60%;
-    grid-gap: 0;
-    text-align: left;
-    width: 100%;
+}
+
+@media screen and (max-width: 768px) {
+  .TextContent {
+    font-size: 1.3em !important;
   }
-  
-  .gridContainer2 {
-    margin-top: 1em;
-    display: grid;
-    grid-template-columns: 60% 40%;
-    grid-gap: 0;
-    text-align: left;
-    width: 100%;
+}
+
+@media screen and (max-width: 687px) {
+  .TextContent {
+    font-size: 1em !important;
   }
-  
-  .container1,
-  .container2 {
-    display: flex;
-    justify-content: center;
-    align-items: center;
+  .HorizontalVideo {
+    width: 90% !important;
+    height: auto;
   }
-  
-  .textAlightLeft2 {
-    text-align: left;
-    font-size: 2em;
-    padding-left: 1em;
-    padding-right: 1em;
-    line-height: 1.3em;
-    padding-top: 1em;
-    padding-bottom: 1em;
+}
+
+/** Iphone 14 Pro Max **/
+@media screen and (max-width: 430px) {
+  .TextContent {
+    font-size: 0.8em !important;
   }
-  
-  .textAlightLeft3 {
-    text-align: left;
-    font-size: 2em;
-    padding-left: 3em;
-    padding-right: 1em;
-    line-height: 1.3em;
-    padding-top: 1em;
-    padding-bottom: 1em;
+}
+
+/** Iphone 12 Pro **/
+@media screen and (max-width: 390px) {
+  .TextContent {
+    font-size: 0.7em !important;
   }
-  
-  .videoStyle {
-    width: 70%;
-  }
-  
-  @media screen and (max-width: 1029px) {
-    .TextContent {
-      font-size: 1.4em !important;
-    }
-  
-    .HorizontalVideo {
-      width: 90% !important;
-      height: auto;
-    }
-  
-    .totalContainerClass {
-      margin-top: 0em !important;
-    }
-  }
-  
-  @media screen and (max-width: 768px) {
-    .TextContent {
-      font-size: 1.3em !important;
-    }
-  }
-  
-  @media screen and (max-width: 687px) {
-    .TextContent {
-      font-size: 1em !important;
-    }
-    .HorizontalVideo {
-      width: 90% !important;
-      height: auto;
-    }
-  }
-  
-  /** Iphone 14 Pro Max **/
-  @media screen and (max-width: 430px) {
-    .TextContent {
-      font-size: 0.8em !important;
-    }
-  }
-  
-  /** Iphone 12 Pro **/
-  @media screen and (max-width: 390px) {
-    .TextContent {
-      font-size: 0.7em !important;
-    }
-  }
+}

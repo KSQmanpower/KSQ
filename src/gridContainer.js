@@ -1,5 +1,5 @@
 import React from "react";
-import './gridContainer.css';
+import "./gridContainer.css";
 import grid1 from "./Assets/GridAssets/Grid1.mp4";
 import grid2 from "./Assets/GridAssets/Grid2.mp4";
 import grid3 from "./Assets/GridAssets/Grid3.mp4";

@@ -3,13 +3,15 @@ import ReactDOM from "react-dom/client";
 import NavBar from "./navbar";
 // import DarkMode from "./darkmode";
 // import ContactForm from "./form";
+import FloatingSideButton from "./netmaid";
+
 const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
     <div>
       {/* <DarkMode /> */}
       <NavBar />
-      {/* <ContactForm /> */}
+      <FloatingSideButton />
     </div>
   </>
 );
