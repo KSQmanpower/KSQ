@@ -3,7 +3,7 @@ import React, { useState, useEffect } from "react";
 import { BrowserRouter as Router, Route, Link, Routes } from "react-router-dom";
 
 //import local components
-import topbanner from "./Assets/topBanner.png";
+import topbanner from "./Assets/topBanner.jpg";
 import Homepage from "./homepage";
 import Listings from "./listings";
 import ParentContact from "./contactParent";
@@ -49,7 +49,7 @@ function NavBar() {
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    backgroundColor: "#033796",
+    backgroundColor: "black",
     padding: "1% 0",
     width: "100%",
     position: "relative",
@@ -64,8 +64,7 @@ function NavBar() {
   };
 
   const logoStyle = {
-    width: "14%",
-    padding: "2%",
+    width: "30%",
   };
 
   const menuStyle = {
@@ -105,7 +104,6 @@ function NavBar() {
       <div style={bodyStyle}>
         <div
           style={{
-            backgroundColor: "#00285D",
             textAlign: "center",
           }}
         >

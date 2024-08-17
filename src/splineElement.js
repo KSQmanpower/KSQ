@@ -12,7 +12,7 @@ function SplineElement() {
   return (
     <>
       {isLoaded && (
-    <Spline loading="lazy" scene="https://prod.spline.design/KGuFnYS-idMcPbhd/scene.splinecode" />
+    <Spline loading="lazy" scene="https://prod.spline.design/b7Tur3wDK2x5ZZ93/scene.splinecode" />
   )}
     </>
   );
