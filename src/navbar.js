@@ -53,7 +53,7 @@ function NavBar() {
     padding: "1% 0",
     width: "100%",
     position: "relative",
-    zIndex: 1001,
+    zIndex: 1,
   };
 
   const linkStyle = {
