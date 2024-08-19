@@ -102,21 +102,23 @@ const CarOptionsSection = () => {
             }}
           >
             <li>
-              KSQ Manpower brings years of industry experience to the table
+              KSQ Manpower brings years of experience in the maid agency
+              industry, ensuring top-notch domestic helper services.
             </li>
             <li>
-              offering unparalleled expertise in matching the right talent with
-              the right opportunities
+              We specialize in matching the right domestic helpers with the
+              right households, providing tailored solutions for your home
+              needs.
             </li>
             <li>
-              Our team of seasoned recruiters understands the nuances of various
-              industries and job markets, ensuring that we can provide tailored
-              staffing solutions for your unique business needs
+              Our team of experts understands the intricacies of hiring domestic
+              workers, ensuring that we meet your specific requirements with
+              precision.
             </li>
             <li>
-              With a track record of successful placements across diverse
-              sectors, we have built a reputation for reliability and efficiency
-              in the competitive world of recruitment.
+              With a strong track record of successful placements, we have
+              earned a reputation for reliability and efficiency in the
+              competitive maid agency sector.
             </li>
           </ul>
         </AccordionItem>
@@ -133,21 +135,21 @@ const CarOptionsSection = () => {
             }}
           >
             <li>
-              Choosing KSQ Manpower means gaining a partner committed to your
-              long-term success.
+              Choosing KSQ Manpower means partnering with a trusted maid agency
+              dedicated to your household’s long-term success.
             </li>
             <li>
-              We offer flexible staffing solutions, from temporary and contract
-              workers to permanent placements, adapting to your changing
-              workforce needs
+              We offer flexible domestic helper solutions, from part-time and
+              temporary maids to full-time live-in helpers, catering to your
+              evolving home care needs.
             </li>
             <li>
-              Our support doesn't end with placement; we provide ongoing
-              assistance to both employers and employees, ensuring smooth
-              transitions and addressing any concerns that may arise. With KSQ
-              Manpower, you're not just filling positions – you're building a
-              resilient, high-performing workforce tailored to your
-              organization's goals and culture.
+              Our commitment doesn't end with the placement; we provide
+              continuous support to both employers and domestic helpers,
+              ensuring smooth transitions and promptly addressing any concerns.
+              With KSQ Manpower, you're not just hiring a helper – you're
+              securing a dependable, high-quality service tailored to your
+              home's needs and culture.
             </li>
           </ul>
         </AccordionItem>
@@ -164,22 +166,25 @@ const CarOptionsSection = () => {
             }}
           >
             <li>
-              At KSQ Manpower, we pride ourselves on our rigorous candidate
-              screening process. We go beyond just matching skills on paper
-              <li>
-                we delve deep into each candidate's background, experience, and
-                cultural fit.
-              </li>
-              <li>
-                Our thorough vetting includes in-depth interviews, skill
-                assessments, and reference checks, ensuring that only the most
-                qualified and suitable candidates are presented to our clients.
-              </li>
-              <li>
-                This meticulous approach saves you time and resources in your
-                hiring process, significantly reducing the risk of mismatches
-                and turnover.
-              </li>
+              At KSQ Manpower, we take pride in our stringent domestic helper
+              screening process, ensuring the highest standards in maid
+              selection.
+            </li>
+            <li>
+              We go beyond matching skills on paper; we thoroughly examine each
+              candidate's background, experience, and cultural compatibility
+              with your household.
+            </li>
+            <li>
+              Our comprehensive vetting process includes detailed interviews,
+              skill assessments, and reference checks, guaranteeing that only
+              the most qualified and suitable domestic helpers are recommended
+              to our clients.
+            </li>
+            <li>
+              This meticulous approach not only saves you time and resources but
+              also minimizes the risk of mismatches and reduces turnover,
+              ensuring a stable and long-term solution for your home care needs.
             </li>
           </ul>
         </AccordionItem>
