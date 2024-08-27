@@ -38,7 +38,7 @@ function NavBar() {
     display: "flex",
     justifyContent: "space-between",
     alignItems: "center",
-    backgroundColor: "#193621",
+    backgroundColor: "#033796",
     padding: "1% 0",
     width: "100%",
     position: "relative",
@@ -53,7 +53,8 @@ function NavBar() {
   };
 
   const logoStyle = {
-    width: "20%",
+    width: "14%",
+    padding: "2%",
   };
 
   const menuStyle = {
@@ -62,7 +63,7 @@ function NavBar() {
     top: "100%",
     left: 0,
     right: 0,
-    backgroundColor: "#21482C",
+    backgroundColor: "#00285D",
     textAlign: "center",
   };
 
@@ -91,7 +92,7 @@ function NavBar() {
       <div style={bodyStyle}>
         <div
           style={{
-            backgroundColor: "#21482C",
+            backgroundColor: "#00285D",
             textAlign: "center",
           }}
         >
