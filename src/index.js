@@ -9,14 +9,8 @@ const root = ReactDOM.createRoot(document.getElementById("root"));
 root.render(
   <>
     <div>
-      {/* <DarkMode /> */}
       <NavBar />
       <FloatingSideButton />
-      <iframe
-        src="https://widgets.sociablekit.com/medium-publication-feed/iframe/25465384"
-        title="Medium Publication Feed"
-        style={{border: "none", overflow: "hidden", frameborder: "0", height: "250vh", width: "100%" }}
-      ></iframe>
     </div>
   </>
 );
